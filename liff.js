@@ -21,7 +21,7 @@ function displayIsInClientInfo() {
 }
 
 
-liff.init({ liffId: "1655050259-xBep0J1R" }, () => {
+liff.init({ liffId: "1656689417-bK5nwawR" }, () => {
     if (liff.isLoggedIn()) {
         getUserProfileforIndex()
         getUserProfileforUserData()
